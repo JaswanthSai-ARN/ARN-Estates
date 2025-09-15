@@ -22,7 +22,6 @@ export const assets = {
     cross_icon,
     menu_icon,
     star_icon,
-    header_img,
     brand_img,
     project_img_1,
     project_img_2,
@@ -97,4 +96,5 @@ export const projectsData = [
         rating: 5,
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     }
+
 ];
